@@ -1,0 +1,18 @@
+Company Name: Darkrose INC
+Address: A.P,India
+--------------------------------------------------------
+ Employee ID		:  7
+ Salary of		:  Dec-2020
+ Generated on		:  03-01-2021
+--------------------------------------------------------
+ Total Days		:  31
+ Total Present		:  29
+ Total Absent		:  2
+ Conveyance		:  Rs.1500
+ Medical		:  Rs.3000
+ PF		:  Rs.2000
+ Gross Payment		:  Rs75000
+ Net Salary		: Rs.66661.29
+-------------------------------------------------------
+This is Computer Generated slip,	Signature not required
+
